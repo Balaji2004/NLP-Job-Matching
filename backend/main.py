@@ -563,9 +563,9 @@ def compute_match_percentage(
     adjusted_score = (weighted * 100) + 25
 
     return min(
-    100,
-    max(0, round(adjusted_score))
-)
+        100,
+        max(0, round(adjusted_score))
+    )
 # ──────────────────────────────────────────────
 # Health Route
 # ──────────────────────────────────────────────
