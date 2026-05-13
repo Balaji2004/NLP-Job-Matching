@@ -1,3 +1,9 @@
+@app.get("/")
+def root():
+
+    return {
+        "message": "ResumeMatch AI Backend Running Successfully"
+    }
 from xml.sax.saxutils import escape
 from fastapi import (
     FastAPI,
