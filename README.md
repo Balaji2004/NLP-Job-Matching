@@ -196,5 +196,11 @@ Frontend runs at `http://localhost:5173`.
 ---
 
 ## License
+This project is created for educational, portfolio, and learning purposes.
 
-MIT
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star on GitHub.
+
